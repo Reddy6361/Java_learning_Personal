@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+C:\Users\yog\Desktop\yog java\.metadata\.plugins\org.eclipse.jdt.core
+3237304963.index
+102038412.index
+717930459.index
+3237750097.index
+3188265857.index
+2842524849.index
+204886221.index
+2399430637.index
+230944846.index
+1364103885.index
+383853179.index
+2299178291.index
+3844957656.index
+4045710974.index
+234727091.index
+1655557102.index
+2523990119.index
+1235505815.index
+4154444441.index
+2402711905.index
+1747843012.index

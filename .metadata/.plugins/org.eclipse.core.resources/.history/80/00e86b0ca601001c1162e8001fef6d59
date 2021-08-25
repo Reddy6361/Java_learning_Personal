@@ -1,0 +1,10 @@
+package p1;
+
+/* 2) functinal interface: in  this interface only one incomplete 
+ * */
+public interface Ex6 {
+	public static void main(String[] args) {
+		public void test() ;
+	}
+
+}

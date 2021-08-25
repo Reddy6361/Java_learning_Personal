@@ -1,0 +1,10 @@
+package p1;
+
+/*Java 8 new features
+ * 1) default keyword
+ * */
+public interface Ex4 {
+	default void test() { we can use to create complete methods. 
+		
+	}
+}

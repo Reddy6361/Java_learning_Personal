@@ -1,0 +1,15 @@
+package p1;
+/*
+ * final keyword:
+ * 1) if you make a variable final then we cannot change its value.
+ * 2) if you make static variable as finial and if not  initialize
+ * then it will give error.
+ * 3) 
+ * */
+public class Ex6 {
+	public static void main(String[] args) {
+		final int x= 10;
+		//x= 10; we cannot change with the same value or different value.
+		System.out.println(x);
+	}
+}

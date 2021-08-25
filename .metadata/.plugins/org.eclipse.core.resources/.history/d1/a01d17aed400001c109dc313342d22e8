@@ -1,0 +1,11 @@
+package p1;
+
+public class Ex9_1 {
+	Ex9_1(){
+		//super(); will always be added by default buy compiler.
+		System.out.println("child class constructor.");
+	}
+	public static void main(String[] args) {
+		new Ex9_1();
+	}
+}

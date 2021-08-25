@@ -1,0 +1,5 @@
+package p1;
+
+public interface Ex4 {
+ public void test1();
+}

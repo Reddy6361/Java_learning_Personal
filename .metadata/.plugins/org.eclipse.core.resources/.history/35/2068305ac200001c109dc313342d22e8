@@ -1,0 +1,6 @@
+package p1;
+
+//second example.
+public class Ex2 {
+	int i = 10;
+}

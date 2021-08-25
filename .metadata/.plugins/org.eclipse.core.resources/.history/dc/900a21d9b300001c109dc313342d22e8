@@ -1,0 +1,10 @@
+package p1;
+
+/*Abstraction:
+ * 1)Interface:
+ * a)
+ * b)
+*/
+public interface Ex7 {
+	public void test();
+}

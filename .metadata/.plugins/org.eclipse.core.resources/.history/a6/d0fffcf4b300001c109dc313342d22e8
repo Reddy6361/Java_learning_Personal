@@ -1,0 +1,17 @@
+package p1;
+
+/*Abstraction:
+ * 1)Interface:
+ * a)
+ * b)
+*/
+/*Note : it is like constructing building , ie we should have a blue print 
+ * , same way we should develop a blueprint ie which contains all 
+ * the fgeauters which should be developed in project ie we 
+ * create incomplete methods which are nothing but 
+ * feasuters if we dont use that methods it will give 
+ * error because class never allows incompleete methods. 
+ * */
+public interface Ex7 {
+	public void test();
+}

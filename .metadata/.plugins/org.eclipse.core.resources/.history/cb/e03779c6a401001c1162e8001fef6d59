@@ -1,0 +1,11 @@
+package p1;
+
+/*interface 1.8 jdk
+ * reference variable in interface
+ * */
+public class Ex3 {
+	public static void main(String[] args) {
+
+	}
+
+}

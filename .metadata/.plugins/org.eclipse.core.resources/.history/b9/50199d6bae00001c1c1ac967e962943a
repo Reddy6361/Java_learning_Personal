@@ -1,0 +1,13 @@
+package p1;
+
+public class Ex3_1 extends Ex3 {
+	@Override
+	@Override
+	//protected void test() { // error
+	//	System.out.println(30);
+	//}
+	public static void main(String[] args) {
+		Ex3 ex = new Ex3(); //class up-casting
+		//ex.test();
+	}
+}

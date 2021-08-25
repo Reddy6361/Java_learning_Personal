@@ -1,0 +1,15 @@
+package p1;
+/*super keyword():
+ * 1) using super keyword we can access the members of parent class.
+ * 2) using super keyword we can access static and non static members both
+ * 3)
+ * */
+/*limitations:
+ * 1) super keyword cannot be used inside static methods
+ * 2)
+ * */
+/*super class is also called as parent class.
+ * */
+public class Ex1 {
+	int i = 10;
+}

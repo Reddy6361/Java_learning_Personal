@@ -1,0 +1,5 @@
+package p1;
+// example 5 lambdas.
+public interface Ex12 {
+	public int test1();
+}

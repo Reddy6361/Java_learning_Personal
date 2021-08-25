@@ -1,0 +1,10 @@
+package p1;
+/*	class -> class --> extends.
+ * 	interface -> interface--> 
+ * 	interface -> class --> implements
+ * 	class -> interface--> nothing not possible
+ * 
+ * */
+public class Ex1 {
+
+}

@@ -1,0 +1,14 @@
+package p1;
+/*
+ * final keyword:
+ * 1) if you make a variable final then we cannot change its value.
+ * 2)
+ * 
+ * */
+public class Ex6 {
+	public static void main(String[] args) {
+		final int x= 10;
+		x= 100;
+		System.out.println(x);
+	}
+}

@@ -1,0 +1,10 @@
+package p1;
+
+public class EX8_1 {
+	EX8_1(){
+		System.out.println("child class constructor.");
+	}
+	public static void main(String[] args) {
+		new EX8_1();
+	}
+}

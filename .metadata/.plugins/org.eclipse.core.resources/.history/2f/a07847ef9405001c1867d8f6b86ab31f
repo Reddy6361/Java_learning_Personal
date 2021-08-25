@@ -1,0 +1,20 @@
+package p1;
+
+/*
+ * 
+ * */
+public class Ex5 {
+	static Ex5 ex; // null reference variable.
+	int x = 10;
+
+	public static void main(String[] args) {
+		try {
+			System.out.println(ex.x);
+			int z = 10/0;
+			System.out.println(z);
+		} catch (NullPointerException e) {// only handles null pointer
+			// it can't handle any other exception.
+			e.printStackTrace();
+		}
+	}
+}

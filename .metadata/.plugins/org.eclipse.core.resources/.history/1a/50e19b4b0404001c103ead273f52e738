@@ -1,0 +1,18 @@
+package p1;
+
+/*difference between interface and class
+ * interface:
+ * 1) they are 100% incomplete.
+ * 2) they support multiple inheritance.
+ * abstract class:
+ * 1) they can be 0-100 % incomplete.
+ * 2) they do-not support multiple inheritance.
+ * */
+/*
+ * what is abstraction?
+ * Ans - 
+ * 
+ * */
+public class Ex6 {
+
+}

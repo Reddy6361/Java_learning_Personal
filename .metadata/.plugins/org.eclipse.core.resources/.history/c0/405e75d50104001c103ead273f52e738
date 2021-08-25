@@ -1,0 +1,16 @@
+package p1;
+
+/*Abstract classes in java:
+ * 1) an abstract class can consist of complete and incomplete methods.
+ * 2) to create incomplete method it is mandatory to use abstract keyword.
+ * 3) an abstract class can be 0-100% incomplete.
+ * 4) an abstract class can consist of main method.
+ * 5) reference variable of abstract class can be created but an object 
+ * of an abstract class cannot be created.
+ * */
+abstract public class Ex1 {
+	public abstract void test();
+	public void test2() {
+		sysou
+	}
+}

@@ -1,0 +1,10 @@
+package p1;
+
+/*Abstract classes in java:
+ * 1)we can keep both complete and incomplete method in it
+ * */
+public class Ex1 {
+	public static void main(String[] args) {
+		
+	}
+}

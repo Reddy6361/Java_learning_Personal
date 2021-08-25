@@ -1,0 +1,13 @@
+package p1;
+
+public class Ex13_1 extends Ex13{
+	Ex13_1(){
+		System.out.println();
+	}
+	Ex13_1(int i){
+		
+	}
+public static void main(String[] args) {
+	
+}
+}

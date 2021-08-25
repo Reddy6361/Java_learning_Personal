@@ -1,0 +1,10 @@
+package p1;
+
+public class Ex2_1 {
+	public static void main(String[] args) {
+		Ex2 ex = new Ex2();
+		
+	}
+	
+	
+}

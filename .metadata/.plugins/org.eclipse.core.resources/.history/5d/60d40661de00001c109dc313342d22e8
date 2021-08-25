@@ -1,0 +1,8 @@
+package p1;
+
+public class Ex7 {
+	int buildingNumber=6;
+public static void main(String[] args) {
+	
+}
+}

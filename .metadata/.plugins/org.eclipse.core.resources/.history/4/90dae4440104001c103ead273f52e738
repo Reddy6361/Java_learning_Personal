@@ -1,0 +1,10 @@
+package p1;
+
+/*Abstract classes in java:
+ * 1)we can keep both complete and incomplete method in it, and we should
+ * write abstract keyword mandaterily.
+ * 2)
+ * */
+public class Ex1 {
+	
+}

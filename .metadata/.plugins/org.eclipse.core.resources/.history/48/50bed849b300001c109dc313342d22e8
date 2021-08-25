@@ -1,0 +1,14 @@
+package p1;
+
+public class Ex7_1 implements Ex7 {
+	@Override
+	public void test() {
+		System.out.println(100);
+	}
+	public static void main(String[] args) {
+		Ex7_1 ex7_1 = new Ex7_1();
+		ex7_1.test();
+	}
+
+	
+}

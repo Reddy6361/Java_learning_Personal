@@ -1,0 +1,9 @@
+package p1;
+/*	Note: static members cannot get inherited, 
+ * 
+ * */
+public class Ex4 {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,20 @@
+package p1;
+/*
+ *number format Exception:
+ * */
+public class Ex6 {
+	public static void main(String[] args) {
+		try {
+			String x= "10";
+			Integer.parseInt(x);
+			
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+}
+/*try {
+			
+		}catch(Exception e) {
+			e.printStackTrace();
+		}*/

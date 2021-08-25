@@ -1,0 +1,13 @@
+package com.yoga.reddy;
+
+public class BatCricketStadium {
+	
+	 G(){
+		System.out.println("hello");
+	}
+public static void main(String[] args) {
+@SuppressWarnings("unused")
+G g1 = new G();
+}
+}
+

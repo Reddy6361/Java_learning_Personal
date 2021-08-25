@@ -1,0 +1,10 @@
+package p1;
+
+/*Java 8 new feauters
+ * 
+ * */
+public class Ex4 {
+	public static void main(String[] args) {
+
+	}
+}

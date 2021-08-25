@@ -1,0 +1,10 @@
+package p1;
+
+/*
+ * static incomplete methods cannot be created in interface
+ * */
+public class Ex1 {
+	public static void main(String[] args) {
+
+	}
+}

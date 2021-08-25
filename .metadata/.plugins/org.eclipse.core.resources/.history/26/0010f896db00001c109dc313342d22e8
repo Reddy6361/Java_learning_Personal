@@ -1,0 +1,5 @@
+package p1;
+// interfaces in java supports multiple inheritance.
+public interface Ex2 {
+
+}

@@ -1,0 +1,11 @@
+package p1;
+/*super keyword():
+ * 
+ * 
+ * */
+
+/*super class is also called as parent class.
+ * */
+public class Ex1 {
+	int i = 10;
+}

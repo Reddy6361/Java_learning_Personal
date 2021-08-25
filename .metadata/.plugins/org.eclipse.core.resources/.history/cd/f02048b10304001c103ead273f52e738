@@ -1,0 +1,9 @@
+package p1;
+
+public class Ex5_2 extends Ex2 {
+	public static void main(String[] args) {
+		Ex5_2 a = new Ex5_2();
+		System.out.println(a.x);
+		a.test2();
+	}
+}

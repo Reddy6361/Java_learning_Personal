@@ -1,0 +1,8 @@
+package p1;
+
+// run time polymorphism : overriding + class up-casting
+public class Ex1 {
+	public void test() {
+		System.out.println(20);
+	}
+}

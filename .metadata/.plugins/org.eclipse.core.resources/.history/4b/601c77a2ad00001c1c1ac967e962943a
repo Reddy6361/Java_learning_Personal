@@ -1,0 +1,12 @@
+package p1;
+
+public class Ex2_1 {
+	@Override
+	public void test() {
+		System.out.println(30);
+	}
+	public static void main(String[] args) {
+		Ex1 ex = new Ex1_1(); //class up-casting
+		ex.test();
+	}
+}

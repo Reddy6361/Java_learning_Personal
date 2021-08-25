@@ -1,0 +1,5 @@
+package p1;
+
+public class Ex9_1 extends Ex9{
+ // if you make pc as final then inheritance is not allowed.
+}

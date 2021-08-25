@@ -1,0 +1,10 @@
+package p1;
+
+/**
+ * Lambdas: 1) it helps us to develop code with less lines,
+ *  that is why java is functional oriented program as well.
+ *  limitations: code readability is difficult.
+ */
+public interface Ex8 {
+public void test1();
+}
