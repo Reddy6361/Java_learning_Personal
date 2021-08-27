@@ -1,7 +1,0 @@
-package p1;
-// we cannot write both super and this in the same constructor.
-public class Ex13 {
-	Ex13(){
-		System.out.println("from parent class constructor");
-	}
-}

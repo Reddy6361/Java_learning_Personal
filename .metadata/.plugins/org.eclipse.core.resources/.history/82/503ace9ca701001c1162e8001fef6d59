@@ -1,5 +1,0 @@
-package p1;
-
-public interface Ex9 {
-	public void test1(int x);
-}

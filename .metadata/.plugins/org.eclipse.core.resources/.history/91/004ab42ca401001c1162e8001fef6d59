@@ -1,9 +1,0 @@
-package p1;
-/*
- * 
- * */
-public interface Ex2 {
-	int age = 100; // final static 
-
-	
-}

@@ -1,9 +1,0 @@
-package p1;
-
-public class Ex10_1 {
-	public static void main(String[] args) {
-		Ex9 ex = (int x) -> System.out.println(x); //lambdas syntax
-		ex.test1(100); // calls lambdas
-	}
-}
-}

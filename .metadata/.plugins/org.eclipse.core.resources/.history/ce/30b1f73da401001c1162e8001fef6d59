@@ -1,9 +1,0 @@
-package p1;
-/*
- *  every variable created in an interface by default is final and static.
- * */
-public interface Ex2 {
-	int age = 100; // by default final static 
-
-	
-}

@@ -1,9 +1,0 @@
-package p1;
-
-public class Ex1_2 implements Ex1 {
-	public static void main(String[] args) {
-		Ex1_2 c = new Ex1_2();
-		c.test1();
-		c.test2();
-	}
-}

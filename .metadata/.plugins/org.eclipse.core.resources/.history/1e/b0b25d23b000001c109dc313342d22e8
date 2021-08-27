@@ -1,9 +1,0 @@
-package p1;
-/*	Note: static members cannot get inherited, 
- * 
- * */
-public class Ex4 {
-	public static void test() {
-		System.out.println(500);
-	}
-}

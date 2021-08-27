@@ -1,9 +1,0 @@
-package p1;
-
-//in the below example ex.test() is converted into Ex6.test() 
-//automatically by compiler. 
-public class Ex7_1 extends Ex6 {
-	public static void main(String[] args) {
-
-	}
-}

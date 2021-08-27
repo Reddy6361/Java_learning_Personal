@@ -1,8 +1,0 @@
-package p1;
-
-/*Java 8 new features
- * 
- * */
-public interface Ex4 {
-	
-}

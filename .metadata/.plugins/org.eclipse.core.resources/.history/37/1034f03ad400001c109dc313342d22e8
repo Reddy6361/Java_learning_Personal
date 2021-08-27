@@ -1,7 +1,0 @@
-package p1;
-
-public class Ex8 {
-	Ex7(){
-		System.out.println("parent class constructor");
-	}
-}

@@ -1,9 +1,0 @@
-package p1;
-
-public class Ex7 {
-	final static  int BUILDING_NUMBER=6; // bold and italic and all final 
-	//var should be inn all uppercasees
-public static void main(String[] args) {
-	
-}
-}

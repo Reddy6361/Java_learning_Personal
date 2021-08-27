@@ -1,9 +1,0 @@
-package p1;
-
-//special case of static members getting inherited.
-// continue in Ex5_1
-public class Ex5 {
-	public static void test() {
-		System.out.println(500);
-	}
-}
