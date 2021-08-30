@@ -1,9 +1,0 @@
-package p1;
-
-public class Ex3_1 extends Ex2 {
-	public static void main(String[] args) {
-		Ex3_1 a = new Ex3_1();
-		System.out.println(a.x);
-		a.test2();
-	}
-}

@@ -1,7 +1,0 @@
-package p1;
-
-public class Ex5_1 implements EX5_1 {
-public static void main(String[] args) {
-	
-}
-}
