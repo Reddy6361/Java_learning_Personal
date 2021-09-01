@@ -1,9 +1,0 @@
-package p1;
-/*
- * Example 2 Arrays.
- * */
-public class Ex8 {
-	public static void main(String[] args) {
-
-	}
-}
